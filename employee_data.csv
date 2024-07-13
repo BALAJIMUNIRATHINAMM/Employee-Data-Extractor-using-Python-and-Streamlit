@@ -1,0 +1,5 @@
+Employee ID,Employee Name,Department,Year,Additional Info
+1,John Doe,Engineering,2022,"{""projects"":[{""detail"":""Project Alpha"",""description"":""Developed new feature for the application.""}],""skills"":[{""detail"":""Python"",""description"":""Expert in Python programming.""}]}"
+2,Jane Smith,Marketing,2022,"{""certifications"":[{""detail"":""Google Analytics"",""description"":""Certified in Google Analytics.""}],""trainings"":[{""detail"":""SEO Training"",""description"":""Completed SEO training program.""}]}"
+3,Emily Johnson,HR,2022,"{""skills"":[{""detail"":""Communication"",""description"":""Excellent communication skills.""}],""projects"":[{""detail"":""Recruitment Drive"",""description"":""Led the recruitment drive.""}]}"
+4,Michael Brown,Finance,2022,"{""trainings"":[{""detail"":""Financial Modelling"",""description"":""Completed advanced financial modelling course.""}],""certifications"":[{""detail"":""CFA Level 1"",""description"":""Passed CFA Level 1.""}]}"
